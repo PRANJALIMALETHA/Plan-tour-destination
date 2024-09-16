@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# React Destination Selector
+
+This is a React-based project where users can select and delete destinations. Note that deleted destinations will reappear upon refreshing the page as the state is not persisted.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
